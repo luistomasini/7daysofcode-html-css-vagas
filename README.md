@@ -1,3 +1,12 @@
-# 7daysofcode-html-css-vagas
+# 7 Days of Code - HTML e CSS
 
-Desafio de 7 dias de HTML e CSS com utilização do Figma para a criação de um site com vagas de emprego
+## Dia 1 ✅
+![nav](./.github/nav.png)
+
+Contrução do navbar. Obs.: (Fiz correções baseadas nos modelos cedidos pela alura no dia seguinte).
+
+## Dia 2 ✅
+![header](./.github/header.png)
+
+Construção do header do site. 
+
