@@ -10,3 +10,8 @@ Contrução do navbar. Obs.: (Fiz correções baseadas nos modelos cedidos pela 
 
 Construção do header do site. 
 
+## Dia 3 ✅
+![preview](./.github/metricas.jpg)
+
+Construção da section "metricas"
+
