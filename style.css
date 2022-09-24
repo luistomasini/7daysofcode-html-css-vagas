@@ -81,7 +81,6 @@ header p:nth-child(3){
 
 .metricas-container{
   display: flex;
-  align-items: stretch;
   gap: 4rem;
   margin: 0 7rem;
   
@@ -108,4 +107,41 @@ header p:nth-child(3){
   line-height: 1.5rem;
   color: var(--text-color);
   padding-bottom: 6rem;
+}
+
+.vagas {
+  text-align: center;
+  margin-top: 6.25rem;
+}
+
+.vagas span {
+  box-sizing: content-box;
+  background: rgba(142, 36, 36, 0.05);
+  color: var(--main-color);
+  border-radius: 16px;
+  padding: 4px 12px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 1.25rem;
+}
+
+.vagas h2 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  color: var(--title-color);
+  margin: 1.25rem auto;
+}
+
+.vagas p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: var(--text-color);
+  margin: 0 auto 4rem auto;
+}
+
+.vagas img {
+  max-width: 76rem;
 }
