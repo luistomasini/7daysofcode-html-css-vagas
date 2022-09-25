@@ -1,5 +1,7 @@
 # 7 Days of Code - HTML e CSS
 
+## Site em construção 🚧
+
 🔗 [Clique aqui para acessar](https://luistomasini.github.io/7daysofcode-html-css-vagas/)
 
 ## Dia 1 ✅
