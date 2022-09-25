@@ -15,3 +15,12 @@ Construção do header do site.
 
 Construção da section "metricas"
 
+## Dia 4 ✅
+![preview](./.github/procurando-talentos.jpg)
+
+Construção da section "Vagas Abertas!"
+
+## Dia 5 ✅
+![preview](./.github/vagas.jpg)
+
+Construção da section "vagas"
