@@ -16,7 +16,7 @@ Construção do header do site.
 Construção da section "metricas"
 
 ## Dia 4 ✅
-![preview](./.github/procurando-talentos.jpeg)
+![preview](./.github/procurando-talentos.JPG)
 
 Construção da section "Vagas Abertas!"
 
