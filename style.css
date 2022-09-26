@@ -196,3 +196,49 @@ header p:nth-child(3){
   line-height: 24px;
   gap: 24px;
 }
+
+.depoimentos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 76rem;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+  margin: auto;
+  margin-top: 96px;
+}
+
+.depoimentos-title {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--main-color);
+  margin-top: 64px;
+  margin-bottom: 32px;
+}
+
+.depoimentos h2 {
+  max-width: 68rem;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  color: var(--title-color);
+  margin-bottom: 32px;
+}
+
+.depoimentos img {
+  margin-bottom: 16px;
+}
+.nome-depoimentos {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--title-color);
+  margin-bottom: 4px;
+}
+
+.cargo-depoimentos {
+  color: var(--text-color);
+  margin-bottom: 64px;
+}

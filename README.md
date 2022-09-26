@@ -28,3 +28,8 @@ Construção da section "Vagas Abertas!"
 ![preview](./.github/vagas.jpeg)
 
 Construção da section "vagas"
+
+## Dia 6 ✅
+![preview](./.github/depoimentos.jpeg)
+
+Construção da section "vagas"
