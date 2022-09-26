@@ -32,4 +32,4 @@ Construção da section "vagas"
 ## Dia 6 ✅
 ![preview](./.github/depoimentos.jpg)
 
-Construção da section "vagas"
+Construção da section "depoimentos"
