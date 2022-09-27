@@ -33,3 +33,8 @@ Construção da section "vagas"
 ![preview](./.github/depoimentos.jpg)
 
 Construção da section "depoimentos"
+
+## Dia 7 ✅
+![preview](./.github/footer.jpg)
+
+Construção do footer
